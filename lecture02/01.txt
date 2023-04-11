@@ -1,0 +1,8 @@
+x = 15 > 5                      True
+True and not false              Syntax Error
+True and not False              True
+not True or not False           True    
+True and not 0                  True
+52<53.3                         True
+1+52<52.3                       False
+4!=4.0                          False
