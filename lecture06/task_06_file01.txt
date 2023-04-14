@@ -1,0 +1,3 @@
+lower text, line 01
+CameCaseText, line02
+ქართული ტექსტი, line03
